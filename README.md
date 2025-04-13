@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GENERATIVE-AI-PROJECTS
 
 ## Generative AI Project with Streamlit Deployment
@@ -20,3 +21,6 @@ All this is wrapped in a simple yet elegant **Streamlit app**, making it easily 
 - **Python** – Core programming language  
 - **Large Language Models i.e Gemini, Hugging Face Transformers, LLama** – Model inference  
 - **Streamlit** – Frontend for deployment  
+=======
+# GENERATIVE-AI-PROJECTS
+>>>>>>> da8a94078efeeab63e90571c5e64b6e7675f6759
