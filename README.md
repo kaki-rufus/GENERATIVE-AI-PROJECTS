@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # GENERATIVE-AI-PROJECTS
 
 ## Generative AI Project with Streamlit Deployment
@@ -24,3 +25,6 @@ All this is wrapped in a simple yet elegant **Streamlit app**, making it easily 
 =======
 # GENERATIVE-AI-PROJECTS
 >>>>>>> da8a94078efeeab63e90571c5e64b6e7675f6759
+=======
+# GENERATIVE-AI-PROJECTS
+>>>>>>> 25002a5efdae2074eb3c33f537d9dfbfe34e4243
